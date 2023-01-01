@@ -3,12 +3,10 @@ export const FormContainer = styled.form`
   display: flex;
   flex-direction: column;
   justify-content: center;
-
   border: 1px solid;
   padding: 20px;
   border-radius: 10px;
 `;
-
 
 export const FormLabel = styled.label`
   display: flex;

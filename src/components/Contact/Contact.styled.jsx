@@ -1,11 +1,4 @@
-import styled from "styled-components";
-// export const Container = styled.div`
-//   max-width: 320px;
-    
-//     padding: 15px;
-//     margin-bottom:15px;
-// `;
-
+import styled from 'styled-components';
 
 export const Button = styled.button`
   width: 100px;
@@ -21,8 +14,8 @@ export const Button = styled.button`
 `;
 
 export const Ul = styled.ul`
-padding: 0;
-`
+  padding: 0;
+`;
 
 export const Li = styled.li`
   display: flex;

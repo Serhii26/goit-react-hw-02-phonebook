@@ -5,7 +5,7 @@ export const Label = styled.label`
   flex-direction: column;
   font-weight: 500;
   justify-content: center;
-  align-items: center
+  align-items: center;
 `;
 
 export const Input = styled.input`
